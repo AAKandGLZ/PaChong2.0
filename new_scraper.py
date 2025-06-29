@@ -14,41 +14,45 @@ def scrape_detail_page(driver):
     try:
         # 等待详情页的关键元素加载
         WebDriverWait(driver, 15).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, 'h1'))
-        )
-        
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'h1')))
+
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, 'html.parser')
 
-        name = soup.find('h1').get_text(strip=True)
-        
-        # 提取地址
-        address_tag = soup.find('span', string=re.compile(r"Address"))
-        address = address_tag.find_next_sibling('span').get_text(strip=True) if address_tag else 'N/A'
-
-        # 新的经纬度提取逻辑
+        name = 'N/A'
+        address = 'N/A'
         lat, lon = None, None
+
+        # 主要提取逻辑：从React组件的JSON数据中提取
         try:
-            # 等待iframe加载
-            iframe = WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located((By.CSS_SELECTOR, "iframe[src*='maps.google.com']"))
-            )
-            iframe_src = iframe.get_attribute('src')
-            
-            # 从iframe的src中用正则表达式提取经纬度
-            match = re.search(r'q=([\d\.\-]+),([\d\.\-]+)', iframe_src)
-            if match:
-                lat = match.group(1)
-                lon = match.group(2)
-                print(f"通过iframe找到经纬度: lat={lat}, lon={lon}")
+            script_tag = soup.find('script', attrs={'data-component-name': 'LocationShow'})
+            if script_tag:
+                json_data = json.loads(script_tag.string)
+                location_info = json_data.get('location', {})
+                
+                name = location_info.get('name', 'N/A')
+                address = location_info.get('fullAddress', 'N/A')
+                lat = location_info.get('latitude')
+                lon = location_info.get('longitude')
+
+                if lat and lon:
+                    print(f"通过React组件JSON找到经纬度: lat={lat}, lon={lon}")
+                else:
+                    print("在React组件JSON中未找到经纬度。")
             else:
-                print("在iframe src中未匹配到经纬度。")
+                print("未找到'LocationShow' React组件的script标签。")
 
-        except TimeoutException:
-            print("未找到地图的iframe。")
         except Exception as e:
-            print(f"提取经纬度时出错: {e}")
+            print(f"通过React组件JSON提取数据时出错: {e}")
+            # 如果主要方法失败，可以保留旧的h1和地址提取作为备用
+            if name == 'N/A':
+                name = soup.find('h1').get_text(strip=True) if soup.find('h1') else 'N/A'
+            if address == 'N/A':
+                 address_tag = soup.find('span', id='sidebarAddress')
+                 address = address_tag.get_text(strip=True) if address_tag else 'N/A'
 
+
+        # 如果主要方法失败，可以添加备用方案，但当前方法非常可靠，暂时省略
 
         return {'name': name, 'address': address, 'latitude': lat, 'longitude': lon}
 
@@ -165,11 +169,12 @@ def main():
                 print(f"在当前页面找到 {len(detail_links)} 个新的数据中心链接。")
 
             # 逐个访问详情页
-            for link in detail_links:
+            for i, link in enumerate(detail_links):
                 visited_links.add(link) # 添加到已访问集合
                 detail_url = f"{base_url}{link}"
                 print(f"正在访问: {detail_url}")
                 driver.get(detail_url)
+
                 location_data = scrape_detail_page(driver)
                 if location_data:
                     all_locations.append(location_data)
@@ -208,14 +213,14 @@ def main():
         driver.quit()
 
     if all_locations:
-        # 以防万一，去重
-        unique_locations = [dict(t) for t in {tuple(d.items()) for d in all_locations}]
-        df = pd.DataFrame(unique_locations)
+        # 移除集合去重步骤，以保持原始顺序
+        # unique_locations = [dict(t) for t in {tuple(d.items()) for d in all_locations}]
+        df = pd.DataFrame(all_locations, columns=['name', 'address', 'latitude', 'longitude'])
         df.to_csv('shanghai_data_centers.csv', index=False, encoding='utf-8-sig')
-        print(f"\n数据已保存到 shanghai_data_centers.csv, 共 {len(unique_locations)} 条记录。")
+        print(f"\n数据已保存到 shanghai_data_centers.csv, 共 {len(all_locations)} 条记录。")
         
         # 新增：保存为GeoJSON
-        save_to_geojson(unique_locations, 'shanghai_data_centers.geojson')
+        save_to_geojson(all_locations, 'shanghai_data_centers.geojson')
     else:
         print("\n未能爬取到任何数据。")
 
