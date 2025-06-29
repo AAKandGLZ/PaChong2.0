@@ -6,279 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.488522,
-                    31.266551
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Ouyang Data Center",
-                "address": "Yi Shu Jia Mei Shu Gong Zuo Shi, Franchaise Chain Originality Park Building 1 Block A, Ouyang Road, Hongkou Qu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.438011,
-                    31.294949
-                ]
-            },
-            "properties": {
-                "name": "Shanghai North IDC Data Center",
-                "address": "KTB Bearing （Shanghai） Co., Ltd., Jiangchang 3rd Road, Jingan Qu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.611248,
-                    31.266133
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Jinqiao Data Center",
-                "address": "Jinqiao, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.504401,
-                    31.218747
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Nanwaitan Data Center",
-                "address": "Shang Hai Tong Xin Guan Li Ju Zhao Biao Tou Biao Guan Li Ban Gong Shi, Shanghai Tongxin Administration Bureau Tendering and Bidding Management Office, Zhongshan South Road, Huangpu Qu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.7495334,
-                    31.0699605
-                ]
-            },
-            "properties": {
-                "name": "Nanhui IDC Data Center",
-                "address": "China, Shanghai Shi, Pudong, 城西路3号"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.483383,
-                    31.257328
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Hengbin IDC Data Center",
-                "address": "Si Chuan Bei Lu, Hongkou Qu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.436539,
-                    31.188637
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Qinzhou IDC Data Center",
-                "address": "Xuhui, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.451176,
-                    31.344898
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Hulan IDC Data Center",
-                "address": "Shang Hai Zhong Wu Shi Ye You Xian Gong Si, Shanghai Xinguang Communication Equipment Plant, Hulan Road, Baoshan Qu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.544379,
-                    31.221517
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Shenjia Lane IDC Data Center",
-                "address": "Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4371364,
-                    31.1837487
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Telecom Caoxi Data Center",
-                "address": "China Telecom Co., Ltd. Shanghai Southern District Telecommunication Bureau Xujiahui Branch, Wan Ti Guan, Xuhui Qu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.541634,
-                    31.2767859
-                ]
-            },
-            "properties": {
-                "name": "SH5 Yangpu District Data Center",
-                "address": "619 Longchang Road, Yangpu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.620621,
-                    31.246309
-                ]
-            },
-            "properties": {
-                "name": "SH2 Pudong New Area Data Center",
-                "address": "700 Jinyu Road, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5448947,
-                    31.275374
-                ]
-            },
-            "properties": {
-                "name": "SH5 Data Center",
-                "address": "Long Chang Lu, Yangpu Qu, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     121.473701,
                     31.230416
                 ]
             },
             "properties": {
-                "name": "China East-Shanghai",
+                "name": "China East 2-Shanghai",
                 "address": "Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.637741,
-                    31.214146
-                ]
-            },
-            "properties": {
-                "name": "SH1 Pudong New Area Data Center",
-                "address": "400 Fangchun Road, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.610613,
-                    31.322155
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Huajing IDC Data Center",
-                "address": "60 Huajing Rd, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.501923,
-                    31.238498
-                ]
-            },
-            "properties": {
-                "name": "XIY2 Xi'an Data Center",
-                "address": "55 Shi Ji Da Dao, Lujiazui, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.604843,
-                    31.2414564
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Telecom Quiqiao Data Center",
-                "address": "Pudong Security Guard Service General Company No.2 Branch (Guiqiao Road), Pudong Xinqu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4830631,
-                    31.248951
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Haining Data Center",
-                "address": "Huawei (Jiangxi North Road), Hai Ning Lu, Hongkou Qu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.544379,
-                    31.221517
-                ]
-            },
-            "properties": {
-                "name": "Information Park Data Center",
-                "address": "Pudong, Shanghai Shi, China"
             }
         },
         {
@@ -300,13 +34,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.541897,
-                    31.276205
+                    121.544379,
+                    31.221517
                 ]
             },
             "properties": {
-                "name": "SHA5 Shanghai Data Center",
-                "address": "619 Longchang Road, Yangpu District, Shanghai, China, 200090"
+                "name": "Shanghai Shenjia Lane IDC Data Center",
+                "address": "Pudong, Shanghai, China"
             }
         },
         {
@@ -314,293 +48,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.504401,
-                    31.218747
+                    121.473701,
+                    31.230416
                 ]
             },
             "properties": {
-                "name": "Shanghai East Gate IDC Data Center",
-                "address": "Shang Hai Tong Xin Guan Li Ju Zhao Biao Tou Biao Guan Li Ban Gong Shi, Shanghai Tongxin Administration Bureau Tendering and Bidding Management Office, Zhongshan South Road, Huangpu Qu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.620621,
-                    31.246309
-                ]
-            },
-            "properties": {
-                "name": "SH3 Pudong New Area Data Center",
-                "address": "700 Jinyu Road, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60208,
-                    31.22841
-                ]
-            },
-            "properties": {
-                "name": "SHA3 Shanghai Data Center",
-                "address": "China, Shanghai, Pudong, 张家浜"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5077043,
-                    31.2998958
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Guoding IDC Data Center",
-                "address": "Guoding Rd, Wu Jiao Chang, Yangpu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5317699,
-                    31.2243427
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Quanhua IDC Data Center",
-                "address": "Pan Duo La Cheng Shi Hang Dong Ka Fei Dian, China Information Technology Center, Fushan Road, Pudong Xinqu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5102071,
-                    31.2896615
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Fuhua IDC Data Center",
-                "address": "Guo Quan Lu, Wu Jiao Chang, Yangpu Qu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.509968,
-                    31.2341239
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Hotline Information Building Data Center",
-                "address": "21st Century Tower, Lu Jia Zui, Pudong Xinqu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.0881835,
-                    30.8556073
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Jianan Data Center",
-                "address": "55 Jian'an Rd, Jinshan Qu, Shanghai Shi, China, 314211"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.375543,
-                    31.157136
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Changxin Caobao Road Data Center",
-                "address": "Shanghai Jingyi Cable Communication Design Institute, Caobao Road, Minhang Qu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.623306,
-                    31.31723
-                ]
-            },
-            "properties": {
-                "name": "SH6 Shanghai Data Center",
-                "address": "898 Xinling Road, Pudong, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5106818,
-                    31.2355377
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Lujiazui IDC Data Center",
-                "address": "Shanghai Information Tower, Lu Jia Zui, Pudong Xinqu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4411019,
-                    31.3138344
-                ]
-            },
-            "properties": {
-                "name": "SHA2 Shanghai Data Center",
-                "address": "Zhabei, Shanghai, China, 200443"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606972,
-                    31.320884
-                ]
-            },
-            "properties": {
-                "name": "GDS SH3, SH4 Data Center",
-                "address": "Shang Hai Shi Gong An Ju Wai Gao Qiao Bao Shui Qu Gong An Chu, 3U Building (Huajing Road), Huajing Road, Pudong Xinqu, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.265374,
-                    31.375869
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Xingshun Data Center",
-                "address": "Jiading, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5141392,
-                    31.1781316
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Yunlian IDC Data Center",
-                "address": "Wuming Shengjian (Changli East Road Branch), Pudong Xinqu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.6326719,
-                    31.2160139
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Zhangdong IDC Data Center",
-                "address": "432 Jinqiu Rd, Pudong Xinqu, Shanghai Shi, China, 201205"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.395555,
-                    31.24984
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Tongpu IDC Data Center",
-                "address": "Putuo, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.6053767,
-                    31.3364826
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Waigaoqiao Data Center",
-                "address": "Shanghai Lipu Industries Corporation, 泰谷路 Pudong Xinqu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4505657,
-                    31.3445366
-                ]
-            },
-            "properties": {
-                "name": "SHA3 Shanghai Data Center",
-                "address": "534 Hulan Rd, Baoshan, Shanghai, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.5365225,
-                    31.1835211
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Beiai IDC Data Center",
-                "address": "China Telecom, Surfing Mobile Photo Stores (Xianan Road), Bei'ai Road, Pudong Xinqu, Shanghai Shi, China"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.448446,
-                    31.340085
-                ]
-            },
-            "properties": {
-                "name": "Shanghai Huma IDC Data Center",
-                "address": "NGS Huma Branch, Huma Road, Baoshan Qu, Shanghai Shi, China"
+                "name": "Shanghai Data Center",
+                "address": "Shanghai Shi, Shanghai, China"
             }
         },
         {
@@ -622,13 +76,461 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    121.395555,
+                    31.24984
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Tongpu IDC Data Center",
+                "address": "Putuo, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.637741,
+                    31.214146
+                ]
+            },
+            "properties": {
+                "name": "SH1 Pudong New Area Data Center",
+                "address": "400 Fangchun Road, Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.623306,
+                    31.31723
+                ]
+            },
+            "properties": {
+                "name": "SH6 Shanghai Data Center",
+                "address": "898 Xinling Road, Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448446,
+                    31.340085
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Huma IDC Data Center",
+                "address": "NGS Huma Branch, Huma Road, Baoshan Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.620243,
+                    31.24631
+                ]
+            },
+            "properties": {
+                "name": "SH2 Data Center",
+                "address": "Qianzhouyuan, Pudong Xinqu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604843,
+                    31.2414564
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Telecom Quiqiao Data Center",
+                "address": "Pudong Security Guard Service General Company No.2 Branch (Guiqiao Road), Pudong Xinqu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4744979,
+                    31.2285118
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Wusheng IDC Data Center",
+                "address": "Wu Sheng Lu, Ren Min Guang Chang, Huangpu Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6053767,
+                    31.3364826
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Waigaoqiao Data Center",
+                "address": "Shanghai Lipu Industries Corporation, 泰谷路 Pudong Xinqu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.436539,
+                    31.188637
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Qinzhou IDC Data Center",
+                "address": "Xuhui, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544379,
+                    31.221517
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Hotline Zhangjiang Data Center",
+                "address": "Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.610613,
+                    31.322155
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Huajing IDC Data Center",
+                "address": "60 Huajing Rd, Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.483383,
+                    31.257328
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Hengbin IDC Data Center",
+                "address": "Si Chuan Bei Lu, Hongkou Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.611248,
+                    31.266133
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Jinqiao Data Center",
+                "address": "Jinqiao, Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4411019,
+                    31.3138344
+                ]
+            },
+            "properties": {
+                "name": "SHA2 Shanghai Data Center",
+                "address": "Zhabei, Shanghai, China, 200443"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.6326719,
+                    31.2160139
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Zhangdong IDC Data Center",
+                "address": "432 Jinqiu Rd, Pudong Xinqu, Shanghai Shi, China, 201205"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.406291,
+                    31.165952
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Guilin IDC Data Center",
+                "address": "Inventec Appliances （Shanghai） Electronics Co.,Ltd., Guiqing Road, Xuhui Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.0881835,
+                    30.8556073
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Jianan Data Center",
+                "address": "55 Jian'an Rd, Jinshan Qu, Shanghai Shi, China, 314211"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.620621,
+                    31.246309
+                ]
+            },
+            "properties": {
+                "name": "SH2 Pudong New Area Data Center",
+                "address": "700 Jinyu Road, Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5317699,
+                    31.2243427
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Quanhua IDC Data Center",
+                "address": "Pan Duo La Cheng Shi Hang Dong Ka Fei Dian, China Information Technology Center, Fushan Road, Pudong Xinqu, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5077043,
+                    31.2998958
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Guoding IDC Data Center",
+                "address": "Guoding Rd, Wu Jiao Chang, Yangpu, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541897,
+                    31.276205
+                ]
+            },
+            "properties": {
+                "name": "SHA5 Shanghai Data Center",
+                "address": "619 Longchang Road, Yangpu District, Shanghai, China, 200090"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.438011,
+                    31.294949
+                ]
+            },
+            "properties": {
+                "name": "Shanghai North IDC Data Center",
+                "address": "KTB Bearing （Shanghai） Co., Ltd., Jiangchang 3rd Road, Jingan Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5106818,
+                    31.2355377
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Lujiazui IDC Data Center",
+                "address": "Shanghai Information Tower, Lu Jia Zui, Pudong Xinqu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     121.473701,
                     31.230416
                 ]
             },
             "properties": {
-                "name": "China East 2-Shanghai",
+                "name": "China East-Shanghai",
                 "address": "Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4830631,
+                    31.248951
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Haining Data Center",
+                "address": "Huawei (Jiangxi North Road), Hai Ning Lu, Hongkou Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451176,
+                    31.344898
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Hulan IDC Data Center",
+                "address": "Shang Hai Zhong Wu Shi Ye You Xian Gong Si, Shanghai Xinguang Communication Equipment Plant, Hulan Road, Baoshan Qu, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4370917,
+                    31.3389251
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Jiyun IDC Data Center",
+                "address": "Volvo Cars China Training Center, Baoshan Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504401,
+                    31.218747
+                ]
+            },
+            "properties": {
+                "name": "Shanghai East Gate IDC Data Center",
+                "address": "Shang Hai Tong Xin Guan Li Ju Zhao Biao Tou Biao Guan Li Ban Gong Shi, Shanghai Tongxin Administration Bureau Tendering and Bidding Management Office, Zhongshan South Road, Huangpu Qu, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5448947,
+                    31.275374
+                ]
+            },
+            "properties": {
+                "name": "SH5 Data Center",
+                "address": "Long Chang Lu, Yangpu Qu, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606972,
+                    31.320884
+                ]
+            },
+            "properties": {
+                "name": "GDS SH3, SH4 Data Center",
+                "address": "Shang Hai Shi Gong An Ju Wai Gao Qiao Bao Shui Qu Gong An Chu, 3U Building (Huajing Road), Huajing Road, Pudong Xinqu, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60208,
+                    31.22841
+                ]
+            },
+            "properties": {
+                "name": "SHA3 Shanghai Data Center",
+                "address": "China, Shanghai, Pudong, 张家浜"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501923,
+                    31.238498
+                ]
+            },
+            "properties": {
+                "name": "XIY2 Xi'an Data Center",
+                "address": "55 Shi Ji Da Dao, Lujiazui, Pudong, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5365225,
+                    31.1835211
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Beiai IDC Data Center",
+                "address": "China Telecom, Surfing Mobile Photo Stores (Xianan Road), Bei'ai Road, Pudong Xinqu, Shanghai Shi, China"
             }
         },
         {
@@ -664,13 +566,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.4370917,
-                    31.3389251
+                    121.375543,
+                    31.157136
                 ]
             },
             "properties": {
-                "name": "Shanghai Jiyun IDC Data Center",
-                "address": "Volvo Cars China Training Center, Baoshan Qu, Shanghai Shi, China"
+                "name": "Shanghai Changxin Caobao Road Data Center",
+                "address": "Shanghai Jingyi Cable Communication Design Institute, Caobao Road, Minhang Qu, Shanghai, China"
             }
         },
         {
@@ -678,13 +580,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.406291,
-                    31.165952
+                    121.541634,
+                    31.2767859
                 ]
             },
             "properties": {
-                "name": "Shanghai Guilin IDC Data Center",
-                "address": "Inventec Appliances （Shanghai） Electronics Co.,Ltd., Guiqing Road, Xuhui Qu, Shanghai Shi, China"
+                "name": "SH5 Yangpu District Data Center",
+                "address": "619 Longchang Road, Yangpu, Shanghai, China"
             }
         },
         {
@@ -692,13 +594,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.473701,
-                    31.230416
+                    121.620621,
+                    31.246309
                 ]
             },
             "properties": {
-                "name": "Shanghai Data Center",
-                "address": "Shanghai Shi, Shanghai, China"
+                "name": "SH3 Pudong New Area Data Center",
+                "address": "700 Jinyu Road, Pudong, Shanghai, China"
             }
         },
         {
@@ -706,13 +608,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.620243,
-                    31.24631
+                    121.504401,
+                    31.218747
                 ]
             },
             "properties": {
-                "name": "SH2 Data Center",
-                "address": "Qianzhouyuan, Pudong Xinqu, Shanghai Shi, China"
+                "name": "Shanghai Nanwaitan Data Center",
+                "address": "Shang Hai Tong Xin Guan Li Ju Zhao Biao Tou Biao Guan Li Ban Gong Shi, Shanghai Tongxin Administration Bureau Tendering and Bidding Management Office, Zhongshan South Road, Huangpu Qu, Shanghai, China"
             }
         },
         {
@@ -720,13 +622,97 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.4744979,
-                    31.2285118
+                    121.265374,
+                    31.375869
                 ]
             },
             "properties": {
-                "name": "Shanghai Wusheng IDC Data Center",
-                "address": "Wu Sheng Lu, Ren Min Guang Chang, Huangpu Qu, Shanghai Shi, China"
+                "name": "Shanghai Xingshun Data Center",
+                "address": "Jiading, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.488522,
+                    31.266551
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Ouyang Data Center",
+                "address": "Yi Shu Jia Mei Shu Gong Zuo Shi, Franchaise Chain Originality Park Building 1 Block A, Ouyang Road, Hongkou Qu, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4505657,
+                    31.3445366
+                ]
+            },
+            "properties": {
+                "name": "SHA3 Shanghai Data Center",
+                "address": "534 Hulan Rd, Baoshan, Shanghai, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4371364,
+                    31.1837487
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Telecom Caoxi Data Center",
+                "address": "China Telecom Co., Ltd. Shanghai Southern District Telecommunication Bureau Xujiahui Branch, Wan Ti Guan, Xuhui Qu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.544379,
+                    31.221517
+                ]
+            },
+            "properties": {
+                "name": "Information Park Data Center",
+                "address": "Pudong, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7495334,
+                    31.0699605
+                ]
+            },
+            "properties": {
+                "name": "Nanhui IDC Data Center",
+                "address": "China, Shanghai Shi, Pudong, 城西路3号"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5102071,
+                    31.2896615
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Fuhua IDC Data Center",
+                "address": "Guo Quan Lu, Wu Jiao Chang, Yangpu Qu, Shanghai Shi, China"
             }
         },
         {
@@ -748,13 +734,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.544379,
-                    31.221517
+                    121.5141392,
+                    31.1781316
                 ]
             },
             "properties": {
-                "name": "Shanghai Hotline Zhangjiang Data Center",
-                "address": "Pudong, Shanghai, China"
+                "name": "Shanghai Yunlian IDC Data Center",
+                "address": "Wuming Shengjian (Changli East Road Branch), Pudong Xinqu, Shanghai Shi, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.509968,
+                    31.2341239
+                ]
+            },
+            "properties": {
+                "name": "Shanghai Hotline Information Building Data Center",
+                "address": "21st Century Tower, Lu Jia Zui, Pudong Xinqu, Shanghai Shi, China"
             }
         }
     ]

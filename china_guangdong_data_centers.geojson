@@ -1,0 +1,1125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4572,
+                    23.14676
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Huangpu Campus",
+                "address": "31 Kefeng Road, Huangpu, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.317563,
+                    22.9655781
+                ]
+            },
+            "properties": {
+                "name": "CKG1 Chongqing Shi Data Center",
+                "address": "Huixing Telecommunication, 236省道 Huilai, Jieyang, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.7358786,
+                    23.3724805
+                ]
+            },
+            "properties": {
+                "name": "Shantou Zhuchi IDC Data Center",
+                "address": "China Telecom (Zhuchi Customer Service Center), Longhu Qu, Shantou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.525165,
+                    22.801624
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Dongchong Data Center",
+                "address": "Nansha, Guangzhou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.228964,
+                    22.717947
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Longgang IDC Data Center",
+                "address": "Longgang Central City, Longgang, Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.35165,
+                    23.11975
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center",
+                "address": "163 Pingyun Road, Tianhe District, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1078607,
+                    22.9968828
+                ]
+            },
+            "properties": {
+                "name": "Foshan Information Building IDC Data Center",
+                "address": "Foshan Information Building, Chancheng Qu, Foshan Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.110838,
+                    23.027959
+                ]
+            },
+            "properties": {
+                "name": "Foshan Data Center",
+                "address": "46 Zumiao Road, Zumiao Temple, Chancheng, Foshan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2829446,
+                    23.1244725
+                ]
+            },
+            "properties": {
+                "name": "Changzhou West IDC Data Center",
+                "address": "Bank of Communications (Dongshan Sub-branch), Yuexiu Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4597533,
+                    23.1498797
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center (GZ1)",
+                "address": "S China Innovation Park Charging, Kefeng Road, 33, Huangpu, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0507869,
+                    22.5057708
+                ]
+            },
+            "properties": {
+                "name": "GDS SZ3 Data Center",
+                "address": "Hongliu Rd, Futian, Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1213842,
+                    22.5440256
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Luohu East Gate IDC Data Center",
+                "address": "Postal Savings Bank of China, 电信大厦 Telecom Mansion, Shennan East Road, Ren Min Nan Lu, Luohu Qu, Shenzhen Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.0331658,
+                    22.9306835
+                ]
+            },
+            "properties": {
+                "name": "Yunfu IDC Data Center",
+                "address": "China, Guangdong Province, Yunfu, Yuncheng, 兴云西路90号"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.926681,
+                    22.581199
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Data Center (SZ8)",
+                "address": "Changfeng Industrial Park, Liuxian Boulevard, Baoan, Shenzhen, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.062692,
+                    23.697898
+                ]
+            },
+            "properties": {
+                "name": "Qingyuan Data Integration Data Center",
+                "address": "Qingcheng, Qingyuan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.293359,
+                    22.80524
+                ]
+            },
+            "properties": {
+                "name": "Foshan Shunde IDC Data Center",
+                "address": "Shunde Qu, Foshan Shi, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9411954,
+                    22.5492809
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen High-Tech Zone IDC Data Center",
+                "address": "Software Building, Gaoxin Middle 1st Road, Nanshan Qu, Shenzhen Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4597533,
+                    23.1498797
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center (GZ3)",
+                "address": "S China Innovation Park Charging, Kefeng Road, 33, Huangpu, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3468267,
+                    23.0817196
+                ]
+            },
+            "properties": {
+                "name": "Qixinggang IDC Data Center",
+                "address": "China Telecom, Shiliugang Road, Haizhu Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.2466493,
+                    22.7035446
+                ]
+            },
+            "properties": {
+                "name": "GDS SZ4 Data Center",
+                "address": "Caiyun Rd, Long Gang Zhong Xin Cheng, Longgang, Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5883864,
+                    24.8037768
+                ]
+            },
+            "properties": {
+                "name": "Shaoguan Xinhua North IDC Data Center",
+                "address": "Xinhua N Rd, Wujiang, Shaoguan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.884019,
+                    22.555259
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Runxun Qianhai Data Center",
+                "address": "Bao'an, Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9262271,
+                    22.5334577
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Telecom Building IDC Data Center",
+                "address": "Hui Xue Lu, Nan Tou, Nanshan Qu, Shenzhen Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1072135,
+                    23.0349268
+                ]
+            },
+            "properties": {
+                "name": "Foshan Qinren IDC Data Center",
+                "address": "Qin Ren Lu, Zu Miao, Chancheng Qu, Foshan Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4625765,
+                    23.1518189
+                ]
+            },
+            "properties": {
+                "name": "CAN5 Guangzhou Data Center",
+                "address": "China, Guangdong Province, Guangzhou, Huangpu, Kefeng Road, 华南新材料创新园"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.586445,
+                    23.371822
+                ]
+            },
+            "properties": {
+                "name": "Zhaoqing IDC Data Center",
+                "address": "Shigouzhen, Sihui, Zhaoqing, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.9966658,
+                    21.8664239
+                ]
+            },
+            "properties": {
+                "name": "Yangjiang IDC Data Center",
+                "address": "168 Dongfeng 3rd Rd, Yangdong District, Yangjiang, Guangdong Province, China, 529566"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.7972466,
+                    22.6878046
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Fuyong IDC Data Center",
+                "address": "315-1 Qiaohe Rd, Baoan Qu, Shenzhen Shi, Guangdong Sheng, China, 518125"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.459749,
+                    23.106401
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Zhongneng Data Center",
+                "address": "Huangpu, Guangzhou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.896606,
+                    23.156045
+                ]
+            },
+            "properties": {
+                "name": "Foshan Sanshui IDC Data Center",
+                "address": "Sanshui, Foshan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4284494,
+                    22.9725233
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Shiji Aircraft Building IDC Data Center",
+                "address": "Jinlong Rd, Panyu, Guangzhou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.918026,
+                    21.641337
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Telecom Maoming Data Center",
+                "address": "Maonan, Maoming, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2346346,
+                    23.0811918
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Huadiwan IDC Data Center",
+                "address": "China Telecom, China Telecom (Huadiwan Office), Huadi Middle Avenue, Liwan Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.915198,
+                    22.739344
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Data Center (SZ5)",
+                "address": "Dongchang Road, Dongchang Road, 宝安区 Shenzhen, Guangdong Province, China, 518107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.253449,
+                    23.1167019
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou People's Middle Road IDC Data Center",
+                "address": "Zhongyu Telecom (Renmin Middle Road), Chang Di Lu Gou Wu Xiu Xian Jie, Yuexiu Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5336523,
+                    22.7221124
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Nanshayungu Data Center",
+                "address": "Mei De Er Lu, Nansha Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2841097,
+                    23.0728674
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Cloud-computing Data Center",
+                "address": "Jiafu Hotel, Xinjiao West Road, Haizhu Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.533343,
+                    22.721764
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center (GZ4)",
+                "address": "Meide 2nd Road, Meideer Road, Nansha District, Guangzhou, Guangdong Province, China, 511462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.078404,
+                    22.592634
+                ]
+            },
+            "properties": {
+                "name": "Jiangmen Data Center",
+                "address": "2 Huanshi 1st Rd, Pengjiang, Jiangmen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.5152091,
+                    23.1445396
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Huizhou Longhu Data Center",
+                "address": "Long Hu Da Dao, Huicheng Qu, Huizhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9192643,
+                    22.9219358
+                ]
+            },
+            "properties": {
+                "name": "Dongguan Dalang IDC Data Center",
+                "address": "1 Meijing Middle Rd, Dongguan Shi, Guangdong Sheng, China, 523455"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.36899,
+                    23.193611
+                ]
+            },
+            "properties": {
+                "name": "CAN1 Guandong Sheng Data Center",
+                "address": "1 Tian Yuan Lu, Tianhe, Guangzhou Shi, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1229723,
+                    22.557676
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Hongbo IDC Data Center",
+                "address": "10 Honghu 1st St, Luohu Qu, Shenzhen Shi, Guangdong Sheng, China, 518001"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.44306,
+                    23.14892
+                ]
+            },
+            "properties": {
+                "name": "CAN8 Guangzhou Data Center",
+                "address": "Nanxiang Yun Data Center, Nanxiangsan Road, Huangpu, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.716446,
+                    23.372254
+                ]
+            },
+            "properties": {
+                "name": "Guangdong West District IDC Center",
+                "address": "Longhu, Shantou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.533343,
+                    22.721764
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Nansha Campus",
+                "address": "Meide 2nd Road, Meideer Road, Nansha District, Guangzhou, Guangdong Province, China, 511462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.9397108,
+                    22.541752
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Data Center",
+                "address": "China Steel Building Parking Lot, Zhonggang Science & Technology Parks (Kewen Road), Gaoxin Middle 4th Road, Nanshan Qu, Shenzhen Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.083278,
+                    22.914909
+                ]
+            },
+            "properties": {
+                "name": "Dongguan Zhangmutou IDC Data Center",
+                "address": "Zhangmutouzhen, Dongguan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1948363,
+                    23.0362321
+                ]
+            },
+            "properties": {
+                "name": "Foshan Century Interconnect IDC Data Center",
+                "address": "China Telecom, China Telecom (Ping Chau Office), Nangang Road, Nanhai Qu, Foshan Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.6259245,
+                    23.6610794
+                ]
+            },
+            "properties": {
+                "name": "Chaozhou Hub Building Data Center",
+                "address": "China, Guangdong, Chaozhou, Xiangqiao, 潮枫路"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5393183,
+                    23.2099097
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Keyun Data Center",
+                "address": "Huan Ling Lu, Huangpu Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.055023,
+                    22.521523
+                ]
+            },
+            "properties": {
+                "name": "GDS Chengdu Data Center",
+                "address": "Futian, Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3418343,
+                    23.1417341
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Tianhe Aircraft Building IDC Data Center",
+                "address": "Guang Zhou Qu Chen Shi Shi Pin Yin Liao You Xian Gong Si Guang Zhou Zheng Liu Shui Jing Ying Bu, Everbright Bank Mansion (Tianhe North Road), Tianhe North Road, Tian He Gong Yuan, Tianhe Qu, Guangzhou, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.533343,
+                    22.721764
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center (GZ5)",
+                "address": "Meide 2nd Road, Meideer Road, Nansha District, Guangzhou, Guangdong Province, China, 511462"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.51667,
+                    23.16904
+                ]
+            },
+            "properties": {
+                "name": "CAN1 | Guangzhou",
+                "address": "Luo Kan, Huangpu, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.4060175,
+                    23.0929374
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Huizhou Dongping IDC Data Center",
+                "address": "China Telecom, JEANSWEST (Zhongshan West Road), Huizhou Commercial Pedestrian Street, Huicheng Qu, Huizhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.561866,
+                    22.241723
+                ]
+            },
+            "properties": {
+                "name": "ZUH1 Zhuhai Data Center",
+                "address": "Jiuzhou Middle Avenue, 九洲大道中 Xiangzhou, Zhuhai, Guangdong Province, China, 519020"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.728268,
+                    23.361818
+                ]
+            },
+            "properties": {
+                "name": "Shantou Yuedong IDC Data Center",
+                "address": "Shan Tou Shi Shang Biao Shi Wu Suo, Hanjiang Building, Longhu Qu, Shantou, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.357869,
+                    23.183098
+                ]
+            },
+            "properties": {
+                "name": "CAN1 Guangzhou Data Center",
+                "address": "Tian Yuan Lu, Tianyuan Road, Tianhe District, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.459749,
+                    23.106401
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Accelerator Data Center",
+                "address": "Huangpu, Guangzhou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.121435,
+                    23.021478
+                ]
+            },
+            "properties": {
+                "name": "FUO1 Guangdong Sheng Data Center",
+                "address": "Foshan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.0562404,
+                    23.0381908
+                ]
+            },
+            "properties": {
+                "name": "Foshan Kepler Data Center",
+                "address": "Lang Bao Xi Lu, Chancheng District, Foshan, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4284494,
+                    22.9725233
+                ]
+            },
+            "properties": {
+                "name": "Shiji IDC Data Center",
+                "address": "Jinlong Rd, Panyu, Guangzhou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.39277,
+                    22.517585
+                ]
+            },
+            "properties": {
+                "name": "Zhongshan Huoju Cloud Data Center",
+                "address": "Zhongshan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.370327,
+                    22.709527
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Data Center (SZ4)",
+                "address": "Qishi Road, Qishi Road, Pingshan District, Shenzhen, Guangdong Province, China, 518118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.4071963,
+                    21.240597
+                ]
+            },
+            "properties": {
+                "name": "Zhanjiang Tunxi Data Center",
+                "address": "Leshan Rd, Chikan District, Zhanjiang, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1402741,
+                    23.0480325
+                ]
+            },
+            "properties": {
+                "name": "Foshan Guijiang IDC Data Center",
+                "address": "21 Nanhai Ave N, Bao Li Shui Cheng, Nanhai Qu, Foshan Shi, Guangdong Sheng, China, 528226"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.0553976,
+                    22.5352098
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Information Hub Data Center",
+                "address": "Xinxi Shuniu Mansion, Futian CBD, Futian Qu, Shenzhen Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.751799,
+                    23.020673
+                ]
+            },
+            "properties": {
+                "name": "Dongguan City IDC Data Center",
+                "address": "Dongguan, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.057036,
+                    22.507865
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Futian Data Center",
+                "address": "Futian Free Trade Zone, Honghua Road, Futian District, Shenzhen, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.608304,
+                    23.120604
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center (GZ6)",
+                "address": "Administration Committee of Guangdong Zengcheng Industrial Park, Qunxian Road, 增城市 Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5426834,
+                    22.3803187
+                ]
+            },
+            "properties": {
+                "name": "Guangdong Zhuhai IDC Data Center",
+                "address": "199 Jinfeng Middle Rd, Xiangzhou, Zhuhai, Guangdong, China, 519085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.116695,
+                    24.31049
+                ]
+            },
+            "properties": {
+                "name": "Meizhou Telecom Hub Building Data Center",
+                "address": "Meijiang, Meizhou, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.930475,
+                    22.533012
+                ]
+            },
+            "properties": {
+                "name": "Shahe IDC Data Center",
+                "address": "Nanshan, Shenzhen, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.367021,
+                    23.52519
+                ]
+            },
+            "properties": {
+                "name": "Jieyang Jidong Data Center",
+                "address": "Rongcheng, Jieyang, Guangdong, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.564863,
+                    22.282733
+                ]
+            },
+            "properties": {
+                "name": "Zhuhai Xiangzhou IDC Data Center",
+                "address": "Zi Jing Lu She Qu, Zijing Road, Xiangzhou, Zhuhai, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4597533,
+                    23.1498797
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center (GZ2)",
+                "address": "S China Innovation Park Charging, Kefeng Road, 33, Huangpu, Guangzhou, Guangdong Province, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.5002328,
+                    23.1570165
+                ]
+            },
+            "properties": {
+                "name": "Guangzhou Data Center",
+                "address": "Rui Fa Lu, Huangpu Qu, Guangzhou Shi, Guangdong Sheng, China"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.366198,
+                    22.773486
+                ]
+            },
+            "properties": {
+                "name": "Shanwei Data Center",
+                "address": "China, Guangdong, Shanwei, 城区城区政府园林宿舍区"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.8983482,
+                    22.5070263
+                ]
+            },
+            "properties": {
+                "name": "Shenzhen Gaoke Building IDC Data Center",
+                "address": "China Gaoke Building, Nanshan Qu, Shenzhen Shi, Guangdong Sheng, China"
+            }
+        }
+    ]
+}

@@ -105,7 +105,25 @@ def save_to_geojson(data, filename):
 def main():
     """主函数"""
     base_url = "https://www.datacenters.com"
-    start_url = f"{base_url}/locations/china/shanghai"
+    
+    start_url = input("请输入要爬取的完整URL (例如 'https://www.datacenters.com/locations/china/shanghai'): ")
+    if not start_url:
+        print("URL不能为空。")
+        return
+
+    if not start_url.startswith(f"{base_url}/locations/"):
+        print(f"URL格式不正确，必须以 '{base_url}/locations/' 开头。")
+        return
+
+    # 从URL中提取地区路径用于生成文件名
+    try:
+        location_path = start_url.split('/locations/')[1]
+        file_stem = location_path.replace('/', '_')
+        csv_filename = f'{file_stem}_data_centers.csv'
+        geojson_filename = f'{file_stem}_data_centers.geojson'
+    except IndexError:
+        print("无法从URL中提取地区路径。")
+        return
     
     options = webdriver.ChromeOptions()
     # options.add_argument('--headless') # 在调试时建议关闭无头模式
@@ -213,14 +231,14 @@ def main():
         driver.quit()
 
     if all_locations:
-        # 移除集合去重步骤，以保持原始顺序
-        # unique_locations = [dict(t) for t in {tuple(d.items()) for d in all_locations}]
-        df = pd.DataFrame(all_locations, columns=['name', 'address', 'latitude', 'longitude'])
-        df.to_csv('shanghai_data_centers.csv', index=False, encoding='utf-8-sig')
-        print(f"\n数据已保存到 shanghai_data_centers.csv, 共 {len(all_locations)} 条记录。")
+        # 以防万一，去重
+        unique_locations = [dict(t) for t in {tuple(d.items()) for d in all_locations}]
+        df = pd.DataFrame(unique_locations)
+        df.to_csv(csv_filename, index=False, encoding='utf-8-sig')
+        print(f"\n数据已保存到 {csv_filename}, 共 {len(unique_locations)} 条记录。")
         
         # 新增：保存为GeoJSON
-        save_to_geojson(all_locations, 'shanghai_data_centers.geojson')
+        save_to_geojson(unique_locations, geojson_filename)
     else:
         print("\n未能爬取到任何数据。")
 
